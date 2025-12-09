@@ -2187,6 +2187,11 @@ input, select, textarea {
 			display: inline-block;
 			vertical-align: middle;
 			height: 100%;
+			position: absolute;
+			top: 0px;
+			left:0px;
+			width:100%;
+			background-color: rgba(0,0,0,0.5);
 		}
 
 		#header .inner {
